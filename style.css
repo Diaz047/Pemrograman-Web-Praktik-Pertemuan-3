@@ -1,0 +1,17 @@
+#leftmenu a{
+    font-size: 100px;
+    font-weight: bold;
+    padding: 10px;
+    display: inline-block;
+    background: yellow;
+    color:red;
+}
+
+#leftmenu a:hover{
+    background: darkblue;
+}
+
+#leftmenu a:link a:visited a:active{
+    padding-left: 10px;
+    text-decoration: none;
+}
